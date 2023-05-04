@@ -1,2 +1,2 @@
-# nF2023
+# Flappy Bird
 nFactorial Flappy Bird preliminary round assignment.
